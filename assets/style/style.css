@@ -81,6 +81,13 @@ header nav ul li a{
 }
 /* Hero End Styling*/
 
+section h2{
+    text-align: center;
+}
+section h2 p{
+    margin: 0;
+}
+
 /* Footer Styling*/
 footer{
     background: #fce138;
