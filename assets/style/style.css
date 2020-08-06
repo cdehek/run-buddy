@@ -144,7 +144,7 @@ header nav ul li a:hover {
     transform: rotate(-58deg);
 }
 .checkbox-wrapper input + label::after,
-.radio-wrapper input + ;label::after {
+.radio-wrapper input + label::after {
     content: none;
 }
 .checkbox-wrapper input:checked + label::after,
